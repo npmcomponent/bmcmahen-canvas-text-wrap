@@ -1,15 +1,9 @@
 {
-  "name": "canvas-text-wrap",
-  "version": "0.0.1",
+  "name": "bmcmahen-canvas-text-wrap",
   "description": "text wrapping for canvas",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bmcmahen/canvas-text-wrap.git"
-  },
+  "version": "0.0.1",
   "keywords": [],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bmcmahen/canvas-text-wrap/issues"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
